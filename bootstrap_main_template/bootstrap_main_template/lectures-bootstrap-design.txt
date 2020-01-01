@@ -1,0 +1,7 @@
+
+Admin Panel Responsive Design
+````````````````````
+
+1) Setup, Sidebar and Main Content
+2) Posts page, category page, tag page design
+3) Stats, Settings page design, complete the documents
